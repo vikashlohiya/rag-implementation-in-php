@@ -1,0 +1,22 @@
+Company Name: VikashNova Solutions
+
+About Company:
+VikashNova Solutions is a software development company that provides web development, AI chatbot development, cloud solutions, and mobile application services.
+
+Services:
+1. Website Development
+2. Laravel Development
+3. React.js Application Development
+4. AI Chatbot Development
+5. RAG-based AI Systems
+6. Cloud Deployment
+7. API Integration
+8. E-commerce Solutions
+
+Office Address:
+VikashNova Solutions
+Hazratganj, Lucknow, Uttar Pradesh, India
+
+Working Hours:
+Monday to Saturday
+10:00 AM to 7:00 PM
