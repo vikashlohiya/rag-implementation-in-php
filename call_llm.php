@@ -1,7 +1,7 @@
 <?php
 
 // Question ----> generate embedding----> try comm (top 3 chunk)
-
+// https://aistudio.google.com/api-keys 
 $gooleapiKey='';
 $question='What is office address';
 function generateEmbedding($text, $apiKey)
